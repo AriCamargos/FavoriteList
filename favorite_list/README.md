@@ -1,10 +1,10 @@
 # favorite_list
 
-A new Flutter project.
+A new Flutter project. A favorite list with heroines Marvel.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is my studing with Provider, packages and plugins in Flutter 
 
 A few resources to get you started if this is your first Flutter project:
 
